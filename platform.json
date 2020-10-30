@@ -51,6 +51,12 @@
       "owner": "platformio",
       "version": "~1.6.12"
     },
+    "framework-arduino-sam-macchina": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "~0.1.13"
+    },
     "framework-arduino-samd": {
       "type": "framework",
       "optional": true,
