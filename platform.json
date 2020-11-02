@@ -51,6 +51,15 @@
       "owner": "platformio",
       "version": "~1.6.12"
     },
+    "framework-arduino-sam-macchina": {
+      "type": "framework",
+      "optional": true,
+      "owner": "rfrowe",
+      "version": "0.3.13",
+      "repository": {
+        "url": "ssh://git@git.xevo.com:9022/rrowe/framework-arduino-sam-macchina.git" 
+      }
+    },
     "framework-arduino-samd": {
       "type": "framework",
       "optional": true,
